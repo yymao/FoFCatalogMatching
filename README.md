@@ -1,4 +1,6 @@
 # FoFCatalogMatching
+
+[![PyPI Version](https://img.shields.io/pypi/v/FoFCatalogMatching.svg)](https://pypi.python.org/pypi/FoFCatalogMatching)
 [![arXiv:2008.12783](https://img.shields.io/badge/astro--ph.GA-arXiv%3A2008.12783-B31B1B.svg)](https://arxiv.org/abs/2008.12783)
 
 Using friends-of-friends method to iteratively match multiple sky catalogs
@@ -12,7 +14,7 @@ SAGA Stage II paper (Mao et al. [2020](https://arxiv.org/abs/2008.12783)).
 ## Installation
 
 ```sh
-pip install https://github.com/yymao/FoFCatalogMatching/archive/master.zip
+pip install FoFCatalogMatching
 ```
 
 ## Example
